@@ -1,0 +1,13 @@
+This is important to understand. 
+
+Every row in Bootstrap has 12 units of space to divvy up.
+
+So if we have 4 columns, and one row, then each row will contain
+about 3 units. 
+
+If we have 3 columns, each row will contain 4 units.
+
+If we have two columns, each row will contain 6units. 
+
+If we have only one column, the column (with one row) will contain 
+exactly 12units.
